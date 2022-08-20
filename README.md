@@ -1,4 +1,4 @@
-# The-Social-Network_API
+# The-Social-Network_API ✨
 
 ## User Story
 AS A social media startup
